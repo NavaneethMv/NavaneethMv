@@ -7,8 +7,6 @@
 [ <a href="#01-active-projects">Software</a> ] &nbsp; [ <a href="https://www.linkedin.com/in/m-v-navaneeth/">LinkedIn</a> ]
 </p>
 
-![Navaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=NavaneethMv&show_icons=true&theme=radical)
-
 ### 01. Active Projects
 * **[sal](https://github.com/off-by-2/sal)** —  salvia go backend
 * **[sentinel](https://github.com/NavaneethMv/sentinel)** - Sentinel is a security property checker for programs. 
